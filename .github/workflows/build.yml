@@ -1,0 +1,54 @@
+name: Build RunImage
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Allocate Swap Space
+        run: |
+          sudo fallocate -l 10G /mnt/swapfile-extra
+          sudo chmod 600 /mnt/swapfile-extra
+          sudo mkswap /mnt/swapfile-extra
+          sudo swapon /mnt/swapfile-extra
+
+      - name: Build
+        run: |
+          sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns <<<0
+          chmod a+x build-runimage.sh
+          ./build-runimage.sh
+
+      - name: Commit Package Versions (Keepalive)
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add package_versions.txt
+
+          if git diff-index --quiet HEAD --; then
+            echo "No package changes detected. Skipping commit."
+          else
+            git commit -m "chore: auto-update package versions list (keepalive)"
+            git push
+          fi
+
+      - name: Upload and release RunImage
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Continuous Build
+          tag_name: continuous
+          prerelease: false
+          files: |
+            ./runimage
+            package_versions.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
