@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 set -e
 
-# Download runimage-x86_64 only if it doesn't already exist in the workspace
 if [ ! -f "runimage-x86_64" ]; then
     curl -OL "https://github.com/VHSgunzo/runimage/releases/download/continuous/runimage-x86_64"
     chmod +x runimage-x86_64
@@ -9,14 +8,13 @@ fi
 
 run_install() {
     set -e
-    # Removed: lib32-gst-plugins-base-libs, lib32-gst-plugins-good, lib32-gst-plugins-base
     INSTALL_PKGS=(
         wine-staging winetricks-git alsa-lib alsa-plugins cups dosbox ffmpeg giflib
         gnutls gst-plugins-base-libs gtk3 lib32-alsa-lib lib32-alsa-plugins lib32-giflib lib32-gnutls
         lib32-gtk3 lib32-libcups lib32-libpulse lib32-libva lib32-libxcomposite lib32-libxinerama lib32-ocl-icd
         lib32-sdl2-compat lib32-v4l-utils lib32-vulkan-icd-loader libgphoto2 libpulse libva
         libxcomposite libxinerama ocl-icd samba sane sdl2-compat v4l-utils vulkan-icd-loader
-        steam mcpelauncher-linux-git mcpelauncher-ui-git pipewire-alsa pipewire-pulse zenity wget google-chrome
+        steam pipewire-alsa pipewire-pulse wget google-chrome
     )
 
     sudo sed -i 's/^#Server/Server/' /etc/pacman.d/blackarch-mirrorlist
@@ -34,7 +32,6 @@ RIM_HOST_XDG_OPEN="${RIM_HOST_XDG_OPEN:=1}"
 RIM_SYS_NVLIBS="${RIM_SYS_NVLIBS:=1}"
 EOF
 
-    # Lowered ZSTD compression level to 3 to heavily favor startup/decompression speed
     rim-build -s -z -c 3 -b 1M runimage
 }
 
