@@ -37,7 +37,7 @@ cmark 0.31.2-1
 coreutils 9.11-1
 cups 2:2.4.19-1
 cups-filters 2.0.1-2
-curl 8.20.0-3
+curl 8.20.0-5
 dav1d 1.5.3-1
 db5.3 5.3.28-7
 dbus 1.16.2-1
@@ -110,7 +110,7 @@ harfbuzz 14.2.0-1
 hicolor-icon-theme 0.18-1
 hidapi 0.15.0-1
 highway 1.4.0-1
-hwdata 0.406-1
+hwdata 0.407-1
 iana-etc 20260425-1
 icu 78.3-1
 iproute2 7.0.0-1
@@ -129,7 +129,7 @@ kmod 34.2-1
 krb5 1.21.3-2
 l-smash 2.14.5-4
 lame 3.101.r6531-1
-lcms2 2.19-1
+lcms2 2.19.1-1
 ldb 2:4.24.1-1
 leancrypto 1.7.2-1
 lib32-alsa-lib 1.2.15.3-1
@@ -139,7 +139,7 @@ lib32-brotli 1.1.0-1
 lib32-bzip2 1.0.8-4
 lib32-cairo 1.18.4-1
 lib32-colord 1.4.8-1
-lib32-curl 8.20.0-3
+lib32-curl 8.20.0-5
 lib32-dbus 1.16.2-1
 lib32-e2fsprogs 1.47.4-1
 lib32-expat 2.8.0-1
@@ -166,7 +166,7 @@ lib32-lcms2 2.17-1
 lib32-libasyncns 1:0.8+r3+g68cd5af-3
 lib32-libcups 2.4.19-1
 lib32-libdatrie 0.2.13-3
-lib32-libdrm 2.4.131-1
+lib32-libdrm 2.4.133-1
 lib32-libelf 0.194-1
 lib32-libepoxy 1.5.10-2
 lib32-libffi 3.5.2-1
@@ -223,7 +223,7 @@ lib32-lm_sensors 1:3.6.2-2
 lib32-mesa 1:26.0.6-1
 lib32-ncurses 6.6-2
 lib32-nettle 3.10.2-1
-lib32-nspr 4.38.2-1
+lib32-nspr 4.39-1
 lib32-nss 3.123.1-1
 lib32-ocl-icd 2.3.3-1
 lib32-openssl 1:3.6.2-1
@@ -236,7 +236,7 @@ lib32-pixman 0.46.4-1
 lib32-sdl2-compat 2.32.68-1
 lib32-sdl3 3.4.8-1
 lib32-spirv-tools 1:1.4.341.0-1
-lib32-sqlite 3.53.0-2
+lib32-sqlite 3.53.1-1
 lib32-systemd 260.1-1
 lib32-util-linux 2.42-1
 lib32-v4l-utils 1.32.0-1
@@ -271,7 +271,7 @@ libde265 1.0.18-1
 libdecor 0.2.5-1
 libdeflate 1.25-1
 libdovi 3.3.2-1
-libdrm 2.4.131-1
+libdrm 2.4.133-1
 libdvdnav 7.0.0-1
 libdvdread 7.0.1-1
 libebur128 1.2.6-2
@@ -435,7 +435,7 @@ net-snmp 5.9.5.2-1
 nettle 3.10.2-1
 nftables 1:1.1.6-3
 npth 1.8-1
-nspr 4.38.2-1
+nspr 4.39-1
 nss 3.123.1-1
 ocl-icd 2.3.4-1
 oniguruma 6.9.10-1
@@ -447,7 +447,7 @@ openssl 3.6.2-2
 opus 1.6.1-1
 orc 0.4.42-1
 p11-kit 0.26.2-1
-pacman 7.1.0.r9.g54d9411-1
+pacman 7.1.0.r9.g54d9411-2
 pacman-mirrorlist 20260406-1
 pacutils 0.15.0-2
 pam 1.7.2-2
@@ -518,7 +518,7 @@ spandsp 0.0.6-7
 speex 1.2.1-2
 speexdsp 1.2.1-2
 spirv-tools 1:1.4.341.0-2
-sqlite 3.53.0-2
+sqlite 3.53.1-1
 sratom 0.6.22-1
 srt 1.5.5-1
 steam 1.0.0.85-6
