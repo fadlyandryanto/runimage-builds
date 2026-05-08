@@ -172,7 +172,7 @@ lib32-libepoxy 1.5.10-2
 lib32-libffi 3.5.2-1
 lib32-libgcrypt 1.12.2-1
 lib32-libglvnd 1.7.0-1
-lib32-libgpg-error 1.60-1
+lib32-libgpg-error 1.61-1
 lib32-libidn2 2.3.8-1
 lib32-libjpeg-turbo 3.1.4.1-1
 lib32-libldap 2.6.13-1
@@ -290,7 +290,7 @@ libgcrypt 1.12.2-1
 libgfortran 16.1.1+r12+g301eb08fa2c5-1
 libglvnd 1.7.0-3
 libgomp 16.1.1+r12+g301eb08fa2c5-1
-libgpg-error 1.60-1
+libgpg-error 1.61-1
 libgphoto2 2.5.33-1
 libgudev 238-3
 libheif 1.21.2-2
