@@ -13,7 +13,7 @@ alsa-ucm-conf 1.2.15.3-1
 aom 3.13.3-1
 appstream 1.1.2-1
 archlinux-keyring 20260420-1
-at-spi2-core 2.60.2-1
+at-spi2-core 2.60.3-1
 attr 2.5.2-2
 audit 4.1.4-2
 avahi 1:0.9rc4-1
@@ -134,7 +134,7 @@ ldb 2:4.24.1-1
 leancrypto 1.7.2-1
 lib32-alsa-lib 1.2.15.3-1
 lib32-alsa-plugins 1.2.12-1
-lib32-at-spi2-core 2.60.2-1
+lib32-at-spi2-core 2.60.3-1
 lib32-brotli 1.1.0-1
 lib32-bzip2 1.0.8-4
 lib32-cairo 1.18.4-1
@@ -218,7 +218,7 @@ lib32-libxshmfence 1.3.3-1
 lib32-libxss 1.2.4-2
 lib32-libxtst 1.2.5-2
 lib32-libxxf86vm 1.1.5-2
-lib32-llvm-libs 1:22.1.3-1
+lib32-llvm-libs 1:22.1.5-1
 lib32-lm_sensors 1:3.6.2-2
 lib32-mesa 1:26.0.6-1
 lib32-ncurses 6.6-2
@@ -413,7 +413,7 @@ libyuv r2426+464c51a03-1
 licenses 20240728-1
 lilv 0.26.4-1
 linux-api-headers 6.19-1
-llvm-libs 22.1.3-1
+llvm-libs 22.1.5-1
 lm_sensors 1:3.6.2-1
 lmdb 0.9.35-1
 lsb-release 2.0.r55.a25a4fc-1
