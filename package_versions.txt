@@ -54,7 +54,7 @@ dosbox 0.74.3-4
 double-conversion 3.4.0-1
 duktape 2.7.0-7
 e2fsprogs 1.47.4-1
-expat 2.8.0-1
+expat 2.8.1-1
 fake-nvidia-driver 0.9-2
 fake-sudo-pkexec 0.4-1
 fake-systemd 0.10-1
@@ -148,7 +148,7 @@ lib32-colord 1.4.8-1
 lib32-curl 8.20.0-6
 lib32-dbus 1.16.2-1
 lib32-e2fsprogs 1.47.4-1
-lib32-expat 2.8.0-1
+lib32-expat 2.8.1-1
 lib32-fakechroot 2.20.1-1
 lib32-fakeroot 1.35-1
 lib32-flac 1.5.0-1
@@ -313,7 +313,7 @@ libldac 2.0.2.3-3
 libldap 2.6.13-1
 liblsan 16.1.1+r12+g301eb08fa2c5-1
 libmakepkg-dropins 20-1
-libmd 1.1.0-2
+libmd 1.2.0-1
 libmikmod 3.3.13-1
 libmng 2.0.3-4
 libmnl 1.0.5-2
