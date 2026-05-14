@@ -14,7 +14,7 @@ run_install() {
         lib32-gtk3 lib32-libcups lib32-libpulse lib32-libva lib32-libxcomposite lib32-libxinerama lib32-ocl-icd
         lib32-sdl2-compat lib32-v4l-utils lib32-vulkan-icd-loader libgphoto2 libpulse libva
         libxcomposite libxinerama ocl-icd samba sane sdl2-compat v4l-utils vulkan-icd-loader
-        steam pipewire-alsa pipewire-pulse wget
+        steam pipewire-alsa pipewire-pulse wget chromium chromium-widevine
     )
 
     sudo sed -i 's/^#Server/Server/' /etc/pacman.d/blackarch-mirrorlist
