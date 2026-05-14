@@ -32,8 +32,6 @@ cabextract 1.11-2
 cairo 1.18.4-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 148.0.7778.167-1
-chromium-widevine 1:4.10.2934.0-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-1
@@ -308,7 +306,7 @@ libieee1284 0.2.11-19
 libinput 1.31.1-1
 libjpeg-turbo 3.1.4.1-1
 libjxl 0.11.2-2
-libksba 1.6.8-1
+libksba 1.8.0-1
 liblc3 1.1.3-2
 libldac 2.0.2.3-3
 libldap 2.6.13-1
@@ -411,7 +409,6 @@ libxpm 3.5.19-1
 libxrandr 1.5.5-1
 libxrender 0.9.12-1
 libxshmfence 1.3.3-1
-libxslt 1.1.45-2
 libxss 1.2.5-1
 libxt 1.3.1-1
 libxtst 1.2.5-1
@@ -434,7 +431,6 @@ lzo 2.10-5
 md4c 0.5.3-1
 mesa 1:26.0.6-1
 mesa-utils 9.0.0-7
-minizip 1:1.3.2-3
 mpdecimal 4.0.1-3
 mpfr 4.2.2-1
 mpg123 1.33.5-1
@@ -481,7 +477,7 @@ portaudio 1:19.7.0-4
 prismlauncher 11.0.2-1
 procps-ng 4.0.6-1
 psmisc 23.7-2
-python 3.14.4-1
+python 3.14.5-1
 qpdf 12.3.2-2
 qrencode 4.1.1-4
 qt6-base 6.11.0-4
@@ -542,7 +538,6 @@ tinysparql 3.11.1-1
 tomlplusplus 3.4.0-2
 tpm2-tss 4.1.3-1
 tslib 1.24-1
-ttf-liberation 2.1.5-2
 tzdata 2026b-1
 unzip 6.0-23
 usbutils 019-1
