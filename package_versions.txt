@@ -18,7 +18,7 @@ attr 2.5.2-2
 audit 4.1.4-2
 avahi 1:0.9rc4-1
 base 3-3
-bash 5.3.12-1
+bash 5.3.15-1
 binutils 2.46+r70+g155188ea10a7-1
 blackarch-keyring 20251011-2
 blackarch-mirrorlist 20260403-1
