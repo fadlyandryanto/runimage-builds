@@ -12,7 +12,7 @@ alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.16.1-1
 aom 3.14.1-1
 appstream 1.1.3-1
-archlinux-keyring 20260612-1
+archlinux-keyring 20260707.1-1
 at-spi2-core 2.60.5-1
 attr 2.6.0-1
 audit 4.1.4-2
@@ -32,7 +32,7 @@ cabextract 1.11-3
 cairo 1.18.4-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 150.0.7871.46-1
+chromium 150.0.7871.100-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-1
@@ -465,7 +465,7 @@ patchelf 0.19.1-1
 pciutils 3.15.0-1
 pcre2 10.47-1
 perl 5.42.2-1
-pinentry 1.3.2-2
+pinentry 1.3.3-1
 pipewire 1:1.6.7-1
 pipewire-alsa 1:1.6.7-1
 pipewire-audio 1:1.6.7-1
@@ -477,7 +477,7 @@ poppler-glib 26.06.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
 prismlauncher-git 11.0.2.r215.gd2fa7cf-1
-procps-ng 4.0.6-2
+procps-ng 4.0.6-3
 protobuf 35.1-1
 psmisc 23.7-2
 python 3.14.6-1
