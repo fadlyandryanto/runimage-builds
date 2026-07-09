@@ -32,7 +32,7 @@ cabextract 1.11-3
 cairo 1.18.4-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 150.0.7871.100-1
+chromium 150.0.7871.114-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-1
@@ -95,9 +95,9 @@ gsettings-desktop-schemas 50.1-1
 gsettings-system-schemas 50.1-1
 gsm 1.0.24-1
 gssdp 1.6.6-1
-gst-plugins-bad-libs 1.28.4-3
-gst-plugins-base-libs 1.28.4-3
-gstreamer 1.28.4-3
+gst-plugins-bad-libs 1.28.5-1
+gst-plugins-base-libs 1.28.5-1
+gstreamer 1.28.5-1
 gtest 1.17.0-2
 gtk-update-icon-cache 1:4.22.4-1
 gtk3 1:3.24.52-1
@@ -218,7 +218,7 @@ lib32-libxshmfence 1.3.3-1
 lib32-libxss 1.2.5-1
 lib32-libxtst 1.2.5-2
 lib32-libxxf86vm 1.1.5-2
-lib32-llvm-libs 1:22.1.6-1
+lib32-llvm-libs 1:22.1.8-1
 lib32-lm_sensors 1:3.6.2-2
 lib32-mesa 1:26.1.4-1
 lib32-ncurses 6.6-2
@@ -372,7 +372,7 @@ libunwind 1.8.2-1
 liburing 2.15-1
 libusb 1.0.30-1
 libuv 1.52.1-1
-libva 2.24.0-2
+libva 2.24.1-1
 libvdpau 1.5-4
 libverto 0.3.2-6
 libvorbis 1.3.7-4
@@ -418,7 +418,7 @@ libzip 1.11.4-1
 licenses 20240728-1
 lilv 0.28.0-1
 linux-api-headers 7.1-1
-llvm-libs 22.1.6-1
+llvm-libs 22.1.8-1
 lm_sensors 1:3.6.2-1
 lmdb 0.9.35-1
 lsb-release 2.0.r55.a25a4fc-1
@@ -548,7 +548,7 @@ tpm2-tss 4.1.3-1
 tslib 1.24-1
 ttf-bitstream-vera 1.10-16
 ttf-liberation 2.1.5-2
-tzdata 2026b-1
+tzdata 2026c-1
 unzip 6.0-23
 usbutils 019-1
 util-linux 2.42.2-1
