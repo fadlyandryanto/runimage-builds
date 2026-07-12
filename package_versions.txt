@@ -82,7 +82,7 @@ glu 9.0.3-3
 glycin 2.1.5-2
 gmp 6.3.0-3
 gnulib-l10n 20241231-1
-gnupg 2.4.9-1
+gnupg 2.4.9-2
 gnutls 3.8.13-2
 gocryptfs 2.6.1-1
 gperftools 2.18.1-1
