@@ -32,10 +32,10 @@ cabextract 1.11-3
 cairo 1.18.4-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 150.0.7871.114-1
+chromium 150.0.7871.124-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
-coreutils 9.11-1
+coreutils 9.11-2
 cups 2:2.4.19-1
 cups-filters 2.0.1-2
 curl 8.21.0-1
@@ -95,9 +95,9 @@ gsettings-desktop-schemas 50.1-1
 gsettings-system-schemas 50.1-1
 gsm 1.0.24-1
 gssdp 1.6.6-1
-gst-plugins-bad-libs 1.28.5-1
-gst-plugins-base-libs 1.28.5-1
-gstreamer 1.28.5-1
+gst-plugins-bad-libs 1.28.5-2
+gst-plugins-base-libs 1.28.5-2
+gstreamer 1.28.5-2
 gtest 1.17.0-2
 gtk-update-icon-cache 1:4.22.4-1
 gtk3 1:3.24.52-1
