@@ -220,7 +220,7 @@ lib32-libxtst 1.2.5-2
 lib32-libxxf86vm 1.1.5-2
 lib32-llvm-libs 1:22.1.8-1
 lib32-lm_sensors 1:3.6.2-2
-lib32-mesa 1:26.1.4-1
+lib32-mesa 1:26.1.5-1
 lib32-ncurses 6.6-2
 lib32-nettle 4.0-2
 lib32-nspr 4.39-1
@@ -418,7 +418,7 @@ libzip 1.11.4-1
 licenses 20240728-1
 lilv 0.28.0-1
 linux-api-headers 7.1-1
-llvm-libs 22.1.8-1
+llvm-libs 22.1.8-2
 lm_sensors 1:3.6.2-1
 lmdb 0.9.35-1
 lsb-release 2.0.r55.a25a4fc-1
@@ -431,7 +431,7 @@ lzo 2.10-5
 mcpelauncher-linux-git 1.7.6.r0.ge58666a-1
 mcpelauncher-ui-git 1.7.2.r2.g87544a4-1.2
 md4c 0.5.3-1
-mesa 1:26.1.4-1
+mesa 1:26.1.5-1
 minizip 1:1.3.2-3
 mpdecimal 4.0.1-3
 mpfr 4.2.2-1
@@ -520,7 +520,7 @@ sed 4.10-1
 serd 0.32.10-1
 shaderc 2026.2-2
 shadow 4.19.4.arch1-1
-shared-mime-info 2.5.1-1
+shared-mime-info 2.5.1-2
 slirp4netns 1.3.4-1
 smbclient 2:4.24.4-1
 snappy 1.2.2-3
