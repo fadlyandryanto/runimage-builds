@@ -32,7 +32,7 @@ cabextract 1.11-3
 cairo 1.18.4-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 150.0.7871.128-1
+chromium 150.0.7871.181-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-2
@@ -73,7 +73,7 @@ gd 2.3.3-9
 gdbm 1.26-2
 gdk-pixbuf2 2.44.7-1
 gettext 1.0-2
-giflib 6.1.3-1
+giflib 6.1.3-2
 glib-networking 1:2.80.1-1
 glib2 2.88.2-1
 glibc 2.43+r37+gfdf10644d6ee-1
@@ -194,7 +194,7 @@ lib32-libthai 0.1.30-1
 lib32-libtiff 4.7.2-1
 lib32-libunistring 1.4.2-1
 lib32-libusb 1.0.30-1
-lib32-libva 2.22.0-1
+lib32-libva 2.24.1-1
 lib32-libvorbis 1.3.7-4
 lib32-libx11 1.8.13-1
 lib32-libxau 1.0.12-1
@@ -476,7 +476,7 @@ poppler 26.07.0-1
 poppler-glib 26.07.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.0.3.r202.gf5ef57e-1
+prismlauncher-git 11.0.3.r211.g20b005d-1
 procps-ng 4.0.6-3
 protobuf 35.1-1
 psmisc 23.7-2
