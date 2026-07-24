@@ -237,7 +237,7 @@ lib32-sdl2-compat 2.32.70-1
 lib32-sdl3 3.4.12-1
 lib32-spirv-tools 1:1.4.350.1-1
 lib32-sqlite 3.53.3-1
-lib32-systemd 261.1-1
+lib32-systemd 261.2-1
 lib32-util-linux 2.42.2-1
 lib32-v4l-utils 1.32.0-1
 lib32-vulkan-icd-loader 1.4.350.1-1
@@ -537,7 +537,7 @@ srt 1.5.6-1
 steam 1.0.0.87-1
 steam-devices 1.0.0.87-1
 svt-av1 4.2.0-1
-systemd-libs 261.1-1
+systemd-libs 261.2-1
 talloc 2.4.4-1
 tar 1.35-2
 tdb 1.4.15-1
