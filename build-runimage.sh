@@ -8,18 +8,22 @@ fi
 
 run_install() {
     set -e
-    INSTALL_PKGS=(
+    WINE_PKGS=(
         wine-staging winetricks-git alsa-lib alsa-plugins cups dosbox ffmpeg giflib
         gnutls gst-plugins-base-libs gtk3 lib32-alsa-lib lib32-alsa-plugins lib32-giflib lib32-gnutls
         lib32-gtk3 lib32-libcups lib32-libpulse lib32-libva lib32-libxcomposite lib32-libxinerama lib32-ocl-icd
         lib32-sdl2-compat lib32-v4l-utils lib32-vulkan-icd-loader libgphoto2 libpulse libva
-        libxcomposite libxinerama ocl-icd samba sane sdl2-compat v4l-utils vulkan-icd-loader ttf-bitstream-vera
-        steam mcpelauncher-linux-git mcpelauncher-ui-git pipewire-alsa pipewire-pulse wget chromium
-        xorg-server-xvfb
+        libxcomposite libxinerama ocl-icd samba sane sdl2-compat v4l-utils vulkan-icd-loader
+    )
+    INSTALL_PKGS=(
+        ttf-bitstream-vera steam mcpelauncher-linux-git
+        mcpelauncher-ui-git pipewire-alsa pipewire-pulse
+        wget chromium xorg-server-xvfb
     )
 
     sudo sed -i 's/^#Server/Server/' /etc/pacman.d/blackarch-mirrorlist
     rim-update
+    pac --needed --noconfirm -S "${WINE_PKGS[@]}" --assume-installed ntsync-autoload
     pac --needed --noconfirm -S "${INSTALL_PKGS[@]}"
     pac -S prismlauncher-git --noconfirm --assume-installed java-runtime=17
     rim-shrink --all
