@@ -32,7 +32,7 @@ cabextract 1.11-3
 cairo 1.18.4-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 150.0.7871.186-1
+chromium 151.0.7922.71-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-2
@@ -229,12 +229,12 @@ lib32-ocl-icd 2.3.5-1
 lib32-openssl 1:3.6.3-1
 lib32-opus 1.6.1-1
 lib32-p11-kit 0.26.4-1
-lib32-pango 1:1.58.0-1
+lib32-pango 1:1.58.1-1
 lib32-pcre2 10.47-1
 lib32-pipewire 1:1.6.8-1
 lib32-pixman 0.46.4-1
 lib32-sdl2-compat 2.32.70-1
-lib32-sdl3 3.4.12-1
+lib32-sdl3 3.4.14-1
 lib32-spirv-tools 1:1.4.357.0-1
 lib32-sqlite 3.53.4-1
 lib32-systemd 261.2-1
@@ -245,7 +245,7 @@ lib32-wayland 1.25.0-1
 lib32-xz 5.8.3-1
 lib32-zlib 1.3.2-1
 lib32-zstd 1.5.7-2
-libadwaita 1:1.9.2-1
+libadwaita 1:1.9.3-1
 libarchive 3.8.9-1
 libasan 16.1.1+r595+g171d15ac6959-1
 libass 0.17.5-1
@@ -284,7 +284,7 @@ libexif 0.6.26-1
 libfdk-aac 2.0.3-2
 libffi 3.7.1-1
 libfreeaptx 0.2.2-1
-libfyaml 0.9.6-2
+libfyaml 0.9.6-3
 libgcc 16.1.1+r595+g171d15ac6959-1
 libgcrypt 1.12.2-1
 libgfortran 16.1.1+r595+g171d15ac6959-1
@@ -423,7 +423,7 @@ lm_sensors 1:3.6.2-1
 lmdb 0.9.35-1
 lsb-release 2.0.r55.a25a4fc-1
 lsof 4.99.7-1
-lua 5.5.0-2
+lua 5.5.1-1
 lua54 5.4.8-6
 lv2 1.18.10-2
 lz4 1:1.10.0-2
@@ -460,7 +460,7 @@ pacman-mirrorlist 20260610-1
 pacutils 0.15.0-2
 pam 1.7.2-2
 pambase 20260616-1
-pango 1:1.58.0-1
+pango 1:1.58.1-1
 patchelf 0.19.1-1
 pciutils 3.15.0-1
 pcre2 10.47-1
@@ -476,7 +476,7 @@ poppler 26.07.0-1
 poppler-glib 26.07.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.0.3.r300.gca896f3-1
+prismlauncher-git 11.0.3.r307.gd10acdb-1
 procps-ng 4.0.6-3
 protobuf 35.1-1
 psmisc 23.7-2
@@ -513,7 +513,7 @@ sane 1.4.0-4
 sbc 2.2-1
 sdl12-compat 1.2.68-2
 sdl2-compat 2.32.70-1
-sdl3 3.4.12-1
+sdl3 3.4.14-1
 sdl_net 1.2.8-6
 sdl_sound 1.0.3-13
 sed 4.10-1
