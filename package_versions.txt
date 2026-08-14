@@ -476,7 +476,7 @@ poppler 26.07.0-1
 poppler-glib 26.07.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.0.3.r392.gd909e02-1
+prismlauncher-git 11.0.3.r411.gbcd87f2-1
 procps-ng 4.0.7-1
 protobuf 35.1-1
 psmisc 23.7-2
