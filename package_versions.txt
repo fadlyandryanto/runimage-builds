@@ -26,7 +26,7 @@ bluez-libs 5.87-2
 brotli 1.2.0-1
 bzip2 1.0.8-6
 ca-certificates 20240618-1
-ca-certificates-mozilla 3.126-1
+ca-certificates-mozilla 3.127-1
 ca-certificates-utils 20240618-1
 cabextract 1.11-3
 cairo 1.18.4-1
@@ -105,7 +105,7 @@ gtk4 1:4.22.4-1
 gupnp 1:1.6.10-1
 gupnp-igd 1.6.0-2
 gzip 1.14-2
-harfbuzz 14.3.0-1
+harfbuzz 14.3.1-1
 hicolor-icon-theme 0.18-1
 hidapi 0.15.0-1
 highway 1.4.0-1
@@ -157,7 +157,7 @@ lib32-glibc 2.44+r24+g16be1518495f-1
 lib32-gmp 6.3.0-2
 lib32-gnutls 3.8.13-3
 lib32-gtk3 1:3.24.52-1
-lib32-harfbuzz 14.3.0-1
+lib32-harfbuzz 14.3.1-1
 lib32-icu 78.3-1
 lib32-json-c 0.19-1
 lib32-keyutils 1.6.3-4
@@ -224,7 +224,7 @@ lib32-mesa 1:26.1.7-1
 lib32-ncurses 6.6-2
 lib32-nettle 4.0-2
 lib32-nspr 4.40-1
-lib32-nss 3.126-1
+lib32-nss 3.127-1
 lib32-ocl-icd 2.3.5-1
 lib32-openssl 1:3.6.3-1
 lib32-opus 1.6.1-1
@@ -443,7 +443,7 @@ nettle 4.0-1
 nftables 1:1.1.6-3
 npth 1.8-1
 nspr 4.40-1
-nss 3.126-1
+nss 3.127-1
 ocl-icd 2.3.5-1
 onetbb 2023.1.0-1
 oniguruma 6.9.10-1
