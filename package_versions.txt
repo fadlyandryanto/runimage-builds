@@ -169,7 +169,7 @@ lib32-libdrm 2.4.134-1
 lib32-libelf 0.196-2
 lib32-libepoxy 1.5.10-2
 lib32-libffi 3.8.0-1
-lib32-libgcrypt 1.12.2-1
+lib32-libgcrypt 1.12.3-1
 lib32-libglvnd 1.7.0-1
 lib32-libgpg-error 1.61-1
 lib32-libidn2 2.3.8-1
@@ -257,7 +257,7 @@ libbs2b 3.1.0-10
 libbsd 0.12.2-2
 libcap 2.78-1
 libcap-ng 0.9.5-1
-libcloudproviders 0.4.0-1
+libcloudproviders 0.4.1-1
 libcolord 1.4.8-1
 libcups 2:2.4.19-1
 libcupsfilters 2.2.1-2
@@ -281,7 +281,7 @@ libffi 3.8.0-1
 libfreeaptx 0.2.2-1
 libfyaml 0.9.6-3
 libgcc 16.2.1+r23+gd564253eb6c8-1
-libgcrypt 1.12.2-1
+libgcrypt 1.12.3-1
 libgfortran 16.2.1+r23+gd564253eb6c8-1
 libglvnd 1.7.0-3
 libgomp 16.2.1+r23+gd564253eb6c8-1
@@ -297,7 +297,7 @@ libieee1284 0.2.11-19
 libinput 1.31.3-1
 libjpeg-turbo 3.2.0-2
 libjxl 0.12.0-1
-libksba 1.8.0-1
+libksba 1.8.1-1
 liblc3 1.1.3-2
 libldac 2.0.2.6-1
 libldap 2.6.13-1
@@ -322,7 +322,7 @@ libnotify 0.8.8-1
 libnsl 2.0.1-2
 libobjc 16.2.1+r23+gd564253eb6c8-1
 libogg 1.3.6-1
-libopenmpt 0.8.8-1
+libopenmpt 0.8.9-1
 libp11-kit 0.26.5-1
 libpaper 2.2.8-1
 libpcap 1.10.6-1
@@ -424,7 +424,7 @@ lv2 1.18.10-2
 lz4 1:1.10.0-2
 lzo 2.10-5
 mcpelauncher-linux-git 1.7.6.r0.ge58666a-1
-mcpelauncher-ui-git 1.7.5.r0.g87544a4-1.1
+mcpelauncher-ui-git 1.7.5.r0.g87544a4-1.3
 md4c 0.5.3-1
 mesa 1:26.2.1-1
 minizip 1:1.3.2-3
@@ -472,13 +472,13 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.0.3.r435.g47c26f4-1
+prismlauncher-git 11.0.3.r438.gde7034b-1
 procps-ng 4.0.7-1
-protobuf 35.1-2
+protobuf 36.0-1
 psmisc 23.7-2
 python 3.14.7-1
 qrencode 4.1.1-4
-qt6-base 6.11.2-2
+qt6-base 6.11.2-3
 qt6-declarative 6.11.2-1
 qt6-imageformats 6.11.2-1
 qt6-networkauth 6.11.2-1
@@ -516,7 +516,7 @@ serd 0.32.10-1
 shaderc 2026.3-1
 shadow 4.20.0.arch1-1
 shared-mime-info 2.5.1-2
-slirp4netns 1.3.4-1
+slirp4netns 1.3.5-1
 smbclient 2:4.24.6-1
 snappy 1.2.2-3
 sndio 1.10.0-1
