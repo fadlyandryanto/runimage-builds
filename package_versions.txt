@@ -12,7 +12,7 @@ alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.16.1-1
 aom 3.15.0-1
 appstream 1.2.0-1
-archlinux-keyring 20260727-1
+archlinux-keyring 20260902-1
 at-spi2-core 2.60.6-1
 attr 2.6.0-1
 audit 4.2.1-1
@@ -39,7 +39,7 @@ cmark 0.31.2-1
 coreutils 9.11-2
 cups 2:2.4.19-1
 cups-filters 2.0.1-2
-curl 8.21.0-1
+curl 8.22.0-1
 dav1d 1.5.4-1
 db5.3 5.3.28-7
 dbus 1.16.2-1
@@ -87,8 +87,8 @@ gnupg 2.4.9-3
 gnutls 3.8.13-2
 gocryptfs 2.6.1-1
 gperftools 2.18.1-1
-gpgme 2.1.2-1
-gpgmepp 2.1.0-1
+gpgme 2.2.0-1
+gpgmepp 2.2.0-1
 graphene 1.10.8-2
 graphite 1:1.3.15-1
 grep 3.12-2
@@ -142,7 +142,7 @@ lib32-brotli 1.2.0-2
 lib32-bzip2 1.0.8-4
 lib32-cairo 1.18.4-1
 lib32-colord 1.4.8-1
-lib32-curl 8.21.0-1
+lib32-curl 8.22.0-1
 lib32-dbus 1.16.2-1
 lib32-e2fsprogs 1.47.4-1
 lib32-expat 2.8.4-1
@@ -221,7 +221,7 @@ lib32-libxtst 1.2.5-2
 lib32-libxxf86vm 1.1.7-1
 lib32-llvm-libs 1:22.1.8-1
 lib32-lm_sensors 1:3.6.2-2
-lib32-mesa 1:26.2.1-1
+lib32-mesa 1:26.2.2-1
 lib32-ncurses 6.6-2
 lib32-nettle 4.0-2
 lib32-nspr 4.40-1
@@ -237,7 +237,7 @@ lib32-pixman 0.46.4-1
 lib32-spirv-tools 1:1.4.357.0-1
 lib32-sqlite 3.53.4-1
 lib32-systemd 261.2-1
-lib32-util-linux 2.42.2-1
+lib32-util-linux 2.42.3-1
 lib32-vulkan-icd-loader 1.4.357.0-1
 lib32-wayland 1.26.0-1
 lib32-xz 5.8.3-1
@@ -261,14 +261,14 @@ libbs2b 3.1.0-10
 libbsd 0.12.2-2
 libcap 2.78-1
 libcap-ng 0.9.5-1
-libcgif 0.5.3-1
+libcgif 0.5.4-1
 libcloudproviders 0.4.1-1
 libcolord 1.4.8-1
 libcups 2:2.4.19-1
 libcupsfilters 2.2.1-2
 libdaemon 0.14-6
 libdatrie 0.2.14-1
-libde265 1.1.1-1
+libde265 1.1.2-1
 libdeflate 1.26-1
 libdovi 3.4.0-1
 libdrm 2.4.134-1
@@ -318,7 +318,7 @@ libmodplug 0.8.9.0-7
 libmysofa 1.3.5-1
 libnetfilter_conntrack 1.1.1-1
 libnfnetlink 1.0.2-2
-libnftnl 1.3.1-1
+libnftnl 1.3.2-1
 libnghttp2 1.70.0-1
 libnghttp3 1.18.0-1
 libngtcp2 1.25.0-1
@@ -385,7 +385,7 @@ libvpx 1.17.0-1
 libwacom 2.19.1-1
 libwbclient 2:4.24.6-1
 libwebp 1.6.0-2
-libwireplumber 0.5.16-1
+libwireplumber 0.5.17-1
 libx11 1.8.13-1
 libxau 1.0.12-1
 libxaw 1.0.16-2
@@ -435,7 +435,7 @@ lzo 2.10-5
 mcpelauncher-linux-git 1.7.6.r0.ge58666a-1
 mcpelauncher-ui-git 1.7.5.r0.g87544a4-1.3
 md4c 0.5.3-1
-mesa 1:26.2.1-1
+mesa 1:26.2.2-1
 minizip 1:1.3.2-3
 mpdecimal 4.0.1-3
 mpfr 4.2.2-1
@@ -444,7 +444,7 @@ mtdev 1.1.7-1
 ncurses 6.6-2
 net-snmp 5.9.5.2-1
 nettle 4.0-1
-nftables 1:1.1.6-3
+nftables 1:1.1.7-3
 npth 1.8-1
 nspr 4.40-1
 nss 3.128-1
@@ -483,7 +483,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.0.3.r467.gf25123b-1
+prismlauncher-git 11.1.0.r479.g90c9b84-1
 procps-ng 4.0.7-1
 protobuf 36.0-1
 psmisc 23.7-2
@@ -557,8 +557,8 @@ ttf-liberation 2.1.5-2
 tzdata 2026c-1
 unzip 6.0-23
 usbutils 019-1
-util-linux 2.42.2-1
-util-linux-libs 2.42.2-1
+util-linux 2.42.3-1
+util-linux-libs 2.42.3-1
 v4l-utils 1.32.0-2
 vapoursynth 77-2
 vid.stab 1.1.1-3
@@ -570,7 +570,7 @@ wget 1.25.0-6
 which 2.25-1
 wine-staging 11.16-2
 winetricks-git 20230212.r52.g07c6d389-1
-wireplumber 0.5.16-1
+wireplumber 0.5.17-1
 x264 3:0.165.r3222.b35605a-2
 x265 4.3-1
 xcb-proto 1.17.0-4
