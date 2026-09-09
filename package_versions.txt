@@ -12,7 +12,7 @@ alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.16.1-1
 aom 3.15.0-1
 appstream 1.2.0-1
-archlinux-keyring 20260902-1
+archlinux-keyring 20260909-1
 at-spi2-core 2.60.6-1
 attr 2.6.0-1
 audit 4.2.1-1
@@ -483,7 +483,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.0.r496.g5785da3-1
+prismlauncher-git 11.1.0.r518.g19d9416-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
