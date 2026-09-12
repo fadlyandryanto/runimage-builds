@@ -26,14 +26,14 @@ bluez-libs 5.87-2
 brotli 1.2.0-1
 bzip2 1.0.8-6
 ca-certificates 20240618-1
-ca-certificates-mozilla 3.128-1
+ca-certificates-mozilla 3.129-1
 ca-certificates-utils 20240618-1
 cabextract 1.11-3
 cairo 1.18.4-1
 cfitsio 1:4.7.0-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 152.0.7977.82-1
+chromium 153.0.8010.36-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-2
@@ -172,7 +172,7 @@ lib32-libdrm 2.4.134-1
 lib32-libelf 0.196-2
 lib32-libepoxy 1.5.10-2
 lib32-libffi 3.8.0-1
-lib32-libgcrypt 1.12.3-1
+lib32-libgcrypt 1.12.4-1
 lib32-libglvnd 1.7.0-1
 lib32-libgpg-error 1.61-1
 lib32-libidn2 2.3.8-1
@@ -225,7 +225,7 @@ lib32-mesa 1:26.2.2-1
 lib32-ncurses 6.6-2
 lib32-nettle 4.0-2
 lib32-nspr 4.40-1
-lib32-nss 3.128-1
+lib32-nss 3.129-1
 lib32-ocl-icd 2.3.5-1
 lib32-openssl 1:3.6.4-1
 lib32-opus 1.6.1-1
@@ -286,7 +286,7 @@ libffi 3.8.0-1
 libfreeaptx 0.2.2-1
 libfyaml 0.9.6-3
 libgcc 16.2.1+r23+gd564253eb6c8-1
-libgcrypt 1.12.3-1
+libgcrypt 1.12.4-1
 libgfortran 16.2.1+r23+gd564253eb6c8-1
 libglvnd 1.7.0-3
 libgomp 16.2.1+r23+gd564253eb6c8-1
@@ -306,12 +306,12 @@ libjxl 0.12.0-1
 libksba 1.8.1-1
 liblc3 1.1.3-2
 libldac 2.0.2.6-1
-libldap 2.6.13-1
+libldap 2.7.1-1
 liblsan 16.2.1+r23+gd564253eb6c8-1
 libmakepkg-dropins 20-2
 libmatio 1.5.30-1
 libmd 1.2.0-1
-libmikmod 3.3.13-1
+libmikmod 3.3.14-1
 libmng 2.0.3-4
 libmnl 1.0.5-2
 libmodplug 0.8.9.0-7
@@ -447,7 +447,7 @@ nettle 4.0-1
 nftables 1:1.1.7-3
 npth 1.8-1
 nspr 4.40-1
-nss 3.128-1
+nss 3.129-1
 numactl 2.0.19-1
 ocl-icd 2.3.5-1
 onetbb 2023.1.0-1
@@ -484,7 +484,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.0.r547.g48ae890-1
+prismlauncher-git 11.1.0.r572.g4b35975-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
