@@ -177,7 +177,7 @@ lib32-libglvnd 1.7.0-1
 lib32-libgpg-error 1.61-1
 lib32-libidn2 2.3.8-1
 lib32-libjpeg-turbo 3.2.0-1
-lib32-libldap 2.6.13-1
+lib32-libldap 2.7.1-1
 lib32-libnghttp2 1.70.0-1
 lib32-libnghttp3 1.18.0-1
 lib32-libngtcp2 1.25.0-1
@@ -484,7 +484,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.0.r572.g4b35975-1
+prismlauncher-git 11.1.0.r574.g3c5a8d8-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
