@@ -33,7 +33,7 @@ cairo 1.18.4-1
 cfitsio 1:4.7.0-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 153.0.8010.36-1
+chromium 153.0.8010.47-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-2
@@ -300,7 +300,7 @@ libidn2 2.3.8-1
 libiec61883 1.2.0-9
 libieee1284 0.2.11-19
 libimagequant 4.4.1-2
-libinput 1.31.3-1
+libinput 1.32.0-1
 libjpeg-turbo 3.2.0-2
 libjxl 0.12.0-1
 libksba 1.8.1-1
@@ -484,7 +484,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.0.r627.g1236bc3-1
+prismlauncher-git 11.1.0.r631.gd06c8a7-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
