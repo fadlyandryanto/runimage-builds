@@ -33,7 +33,7 @@ cairo 1.18.4-1
 cfitsio 1:4.7.0-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20260428-1
-chromium 153.0.8010.47-1
+chromium 153.0.8010.52-1
 cifs-utils 7.5-1
 cmark 0.31.2-1
 coreutils 9.11-2
@@ -484,7 +484,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.0.r631.gd06c8a7-1
+prismlauncher-git 11.1.0.r649.gee33cb2-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
@@ -563,7 +563,7 @@ util-linux-libs 2.42.3-1
 v4l-utils 1.32.0-2
 vapoursynth 79-1
 vid.stab 1.1.2-1
-vmaf 3.2.0-1
+vmaf 3.2.1-1
 vulkan-icd-loader 1.4.357.0-1
 wayland 1.26.0-1
 webrtc-audio-processing-1 1.3-5
@@ -592,7 +592,7 @@ xorg-xprop 1.2.8-1
 xorg-xrandr 1.5.4-1
 xorgproto 2025.1-1
 xvidcore 1.3.7-4
-xxhash 0.8.3-1
+xxhash 0.8.4-1
 xz 5.8.4-1
 zenity 4.2.2-1
 zeromq 4.3.5-3
