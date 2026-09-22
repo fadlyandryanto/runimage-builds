@@ -51,13 +51,13 @@ dosbox 0.74.3-4
 double-conversion 3.4.0-1
 duktape 2.7.0-7
 e2fsprogs 1.47.4-1
-expat 2.8.4-1
+expat 2.8.5-1
 fake-nvidia-driver 0.9-2
 fake-sudo-pkexec 0.4-1
 fake-systemd 0.10-1
 fakechroot 2.20.1-4
 fakeroot 1.35-1
-ffmpeg 2:9.0.1-4
+ffmpeg 2:9.0.2-1
 fftw 3.3.11-1
 file 5.48-1
 findutils 4.11.0-1
@@ -145,7 +145,7 @@ lib32-colord 1.4.8-1
 lib32-curl 8.22.0-1
 lib32-dbus 1.16.2-1
 lib32-e2fsprogs 1.47.4-1
-lib32-expat 2.8.4-1
+lib32-expat 2.8.5-1
 lib32-fakechroot 2.20.1-1
 lib32-fakeroot 1.35-1
 lib32-flac 1.5.0-1
@@ -350,7 +350,7 @@ libsamplerate 0.2.2-3
 libsasl 2.1.28-5
 libseccomp 2.6.0-1
 libsecret 0.21.8.2-1
-libslirp 4.9.4-1
+libslirp 4.9.5-1
 libsm 1.2.6-1
 libsndfile 1.2.2-4
 libsodium 1.0.22-1
@@ -484,7 +484,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.0.r677.ga846a1a-1
+prismlauncher-git 11.1.0.r683.g74b3116-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
