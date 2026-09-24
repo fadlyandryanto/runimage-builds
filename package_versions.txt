@@ -236,7 +236,7 @@ lib32-pipewire 1:1.6.9-1
 lib32-pixman 0.46.4-1
 lib32-spirv-tools 1:1.4.357.0-1
 lib32-sqlite 3.53.4-1
-lib32-systemd 261.3-1
+lib32-systemd 262-1
 lib32-util-linux 2.42.4-1
 lib32-vulkan-icd-loader 1.4.357.0-1
 lib32-wayland 1.26.0-1
@@ -484,7 +484,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.0.r697.ge54d076-1
+prismlauncher-git 11.1.0.r728.g4ea0ca3-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
@@ -544,7 +544,7 @@ srt 1.5.7-1
 steam 1.0.0.87-3
 steam-devices 1.0.0.87-3
 svt-av1 4.2.0-1
-systemd-libs 261.3-1
+systemd-libs 262-1
 talloc 2.5.0-2
 tar 1.35-5
 tdb 1.4.15-2
