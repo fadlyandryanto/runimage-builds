@@ -293,7 +293,7 @@ libgomp 16.2.1+r23+gd564253eb6c8-1
 libgpg-error 1.61-1
 libgphoto2 2.5.34-1
 libgudev 238-3
-libheif 1.23.5-1
+libheif 1.23.6-1
 libhwasan 16.2.1+r23+gd564253eb6c8-1
 libice 1.1.2-1
 libidn2 2.3.8-1
@@ -484,7 +484,7 @@ poppler 26.08.0-1
 poppler-glib 26.08.0-1
 popt 1.19-2
 portaudio 1:19.7.0-4
-prismlauncher-git 11.1.1.r792.gd92297f-1
+prismlauncher-git 11.1.1.r825.g7de6e96-1
 procps-ng 4.0.7-1
 protobuf 36.1-1
 psmisc 23.7-2
