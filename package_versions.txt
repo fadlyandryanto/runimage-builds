@@ -270,7 +270,7 @@ libebur128 1.2.6-2
 libedit 20260512_3.1-1
 libelf 0.196-1
 libepoxy 1.5.10-3
-libevdev 1.13.7-1
+libevdev 1.14.0-1
 libevent 2.1.13-2
 libexif 0.6.26-1
 libfdk-aac 2.0.3-2
